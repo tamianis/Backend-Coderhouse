@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Teclado",
+    "description": "Teclado Gamer",
+    "price": 15000,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_944449-MLA50305077491_062022-O.webp",
+    "code": "R01",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "title": "Mouse",
+    "description": "Mouse Gamer",
+    "price": 13500,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_818434-MLA48170563324_112021-O.jpg",
+    "code": "R02",
+    "stock": 12
+  },
+  {
+    "id": 3,
+    "title": "Audifonos",
+    "description": "Audifonos Gamer G818 USB 7.1",
+    "price": 27990,
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0583/6793/4669/products/p-724373672755-1-df842ff3-163e-4851-87e8-c66db16b329a_a7fcda32-aedc-406a-9161-46507d6927da_500x.jpg?v=1653937155",
+    "code": "R03",
+    "stock": 8
+  },
+  {
+    "id": 4,
+    "title": "Microfono",
+    "description": "Microfono Gamer Redragon Quasar 2 Gm200-1 Usb 2.0",
+    "price": 17900,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_989427-MLC47950549443_102021-O.webp",
+    "code": "R04",
+    "stock": 5
+  },
+  {
+    "id": 5,
+    "title": "Kit Gamer",
+    "description": "KIT GAMER MOUSE + TECLADO IMICE PREMIUM AN300",
+    "price": 11900,
+    "thumbnail": "https://ripleycl.imgix.net/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fim-prod-products-images%2F0f1ea80f18af9deacfcf187f4dcb1e57-048bffa3-0c38-45dc-aa1a-7b6b60557f26.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=666b5147e8900bd40de7abbb0b11f202",
+    "code": "R05",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "title": "Control Gamer",
+    "description": "Controlador inalámbrico con bluetooth para switch pc android ps3",
+    "price": 19900,
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/gsc_114250975_944434_1?wid=1500&hei=1500&qlt=70",
+    "code": "R06",
+    "stock": 8
+  },
+  {
+    "id": 7,
+    "title": "Kit Gamer Girl",
+    "description": "Kit Gamer 3dfx Gamingirl Mouse Audífonos Teclado Mouse Pad",
+    "price": 25990,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_913805-MLC49666324757_042022-O.webp",
+    "code": "R07",
+    "stock": 24
+  },
+  {
+    "id": 8,
+    "title": "MousePad",
+    "description": "Mouse Pad Philips SLP7604 XL Carga Inalambrica RGB",
+    "price": 16990,
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0643/7863/4466/products/open-uri20221027-4146-1igepw9_720x.jpg?v=1667961204",
+    "code": "R08",
+    "stock": 22
+  },
+  {
+    "id": 9,
+    "title": "Kit Gamer RGB",
+    "description": "Kit Gamer GG RGB Onikuma Teclado G27 + Mouse CW902 + Audifonos K6 + Mousepad X5",
+    "price": 44900,
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0086/5963/2207/products/pack-gamer-pro-rgb-onikuma-teclado-g27-mouse-cw902-audifonos-k6-mousepad-x5-packs-gamer-monkeycolor-802253_5000x.jpg?v=1644539610",
+    "code": "R09",
+    "stock": 13
+  },
+  {
+    "id": 10,
+    "title": "Kit Gamer Onikuma",
+    "description": "Kit Gamer Onikuma Teclado Mecánico Audífono K9 Mouse Pad Rgb",
+    "price": 69900,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_770506-MLC49034161539_022022-O.jpg",
+    "code": "R10",
+    "stock": 5
+  }
+]
