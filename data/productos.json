@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Teclado",
+    "price": 15000
+  },
+  {
+    "id": 2,
+    "title": "Mouse",
+    "price": 13500
+  },
+  {
+    "id": 3,
+    "title": "Audifonos",
+    "price": 27990
+  },
+  {
+    "id": 4,
+    "title": "Microfono",
+    "price": 17900
+  },
+  {
+    "id": 5,
+    "title": "Kit Gamer",
+    "price": 11900
+  },
+  {
+    "id": 6,
+    "title": "Control Gamer",
+    "price": 19900
+  },
+  {
+    "id": 7,
+    "title": "Kit Gamer Girl",
+    "price": 25990
+  },
+  {
+    "id": 8,
+    "title": "MousePad",
+    "price": 16990
+  },
+  {
+    "id": 9,
+    "title": "Kit Gamer RGB",
+    "price": 44900
+  },
+  {
+    "id": 10,
+    "title": "Kit Gamer Onikuma",
+    "price": 69900
+  }
+]
